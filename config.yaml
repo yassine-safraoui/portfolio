@@ -130,7 +130,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Yassine Safraoui."
-    subtitle: "I'm a [SEOC](https://phelma.grenoble-inp.fr/fr/formation/ingenieur-de-grenoble-inp-phelma-filiere-systemes-embarques-et-objets-connectes-seoc) engineering student @Phelma."
+    subtitle: "I'm a [SEOC](https://phelma.grenoble-inp.fr/en/studies/master-s-degree-in-engineering-grenoble-inp-phelma-embedded-systems-and-connected-devices-seoc#page-presentation) engineering student @Phelma."
     content: "Passionate about embedded systems and connected objects. I'm looking for a 6 months internship in this domain"
     image: /fav.png
     bottomImage:
