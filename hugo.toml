@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/' #TODO: TO FILL AFTER DEPLOYMENT
+languageCode = 'en-us'
+title = 'Yassine Safraoui Portfolio'
+theme = 'hugo-profile'
